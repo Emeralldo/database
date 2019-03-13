@@ -1,8 +1,20 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "login": "admin",
+      "password": "admin",
+      "token": "KSDHg234jhjk3u382fdf",
+      "about": "Администратор сервера",
+      "age": "99"
+    },
+    {
+      "id": 2,
+      "login": "nikita",
+      "password": "123456",
+      "token": "Hgi4h2vD6kv5fpdlVede",
+      "about": "Создатель сайта",
+      "age": "21"
     }
   ],
   "profile": {
